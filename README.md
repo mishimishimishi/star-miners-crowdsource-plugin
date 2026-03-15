@@ -1,3 +1,6 @@
+sorry I am not goood with computers and could not find a way to leave a comment. for the past several days, ingame with this plugin installed via runelite, rather that its printing out in chat the star size/location when you are near one it prints 'Issue posting call to https://public.starminers.site/crowdsource: Unauthorized' . I have talking to at least 2-3 other users with the issue. I am on a mac if that matters. sorry for doing this in the wrong format. thank you! 
+
+
 # Shooting Stars
 Provides a way to crowdsource shooting star information through an external server.
 The following information is sent to the server when you have looked through a telescope:
